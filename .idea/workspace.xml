@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
+    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="Initial commit&#10;Решена задача Lesson06.task01&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task01/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -116,7 +117,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task01/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="36" selection-start="691" selection-end="691" vertical-scroll-proportion="0.68881685" vertical-offset="0" max-vertical-offset="765">
+            <state line="27" column="45" selection-start="778" selection-end="778" vertical-scroll-proportion="0.74392223" vertical-offset="0" max-vertical-offset="765">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#517#525#0" expanded="true" />
@@ -744,7 +745,11 @@
       <created>1404306258703</created>
       <updated>1404306258703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;Решена задача Lesson06.task01&#10;">
+      <created>1404306284156</created>
+      <updated>1404306284156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -792,7 +797,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial commit&#10;Решена задача Lesson06.task01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;Решена задача Lesson06.task01" />
+    <MESSAGE value="Initial commit&#10;Решена задача Lesson06.task01&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;Решена задача Lesson06.task01&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1091,7 +1097,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level07/lesson06/task01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="36" selection-start="691" selection-end="691" vertical-scroll-proportion="0.68881685" vertical-offset="0" max-vertical-offset="765">
+        <state line="27" column="45" selection-start="778" selection-end="778" vertical-scroll-proportion="0.74392223" vertical-offset="0" max-vertical-offset="765">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#517#525#0" expanded="true" />
