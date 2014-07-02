@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="Initial commit&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -741,6 +740,11 @@
       <created>1355835879150</created>
       <updated>1355835879150</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;Решена задача Lesson06.task01">
+      <created>1404306258703</created>
+      <updated>1404306258703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -787,6 +791,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit&#10;Решена задача Lesson06.task01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;Решена задача Lesson06.task01" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
