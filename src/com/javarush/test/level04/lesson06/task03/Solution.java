@@ -7,27 +7,26 @@ package com.javarush.test.level04.lesson06.task03;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+import java.util.Arrays;
+
+import java.util.Collections;
+
 public class Solution
 {
     public static void main(String[] args) throws Exception
     {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        int a = Integer.parseInt(reader.readLine());
-        int b = Integer.parseInt(reader.readLine());
-        int c = Integer.parseInt(reader.readLine());
-        if (a < b && a < c && b < c)
+        Integer arr[] = new Integer[3];
+        for (int a = 0; a < arr.length; a++)
         {
-            System.out.println(c);
-            System.out.println(b);
-            System.out.println(a);
+            arr[a] = Integer.parseInt(reader.readLine());
+
         }
-        else if (b < a && b < c && a <c)
-        System.out.println(c);
-        System.out.println(a);
-        System.out.println(b);
-
-
-        //Напишите тут ваш код
+        Arrays.sort(arr, Collections.reverseOrder());
+        for (int b = 0; b < arr.length; b++)
+        {
+            System.out.println(arr[b]);
+        }
 
     }
 }
