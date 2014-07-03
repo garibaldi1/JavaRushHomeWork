@@ -15,18 +15,20 @@ public class Solution
     public static void main(String[] args) throws Exception
     {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        String a = reader.readLine();
-        int maximum = Integer.parseInt(a);
-        String b = reader.readLine();
-        int n = Integer.parseInt(b);
-
-
-
-        //напишите здесь ваш код
-
-
-
-
+        int maximum = 0;
+        int a = Integer.parseInt(reader.readLine());
+        if (a > 0)
+        {
+            int [] numbers = new int[a];
+            for (int b = 0; b < numbers.length; b++)
+            {
+                numbers[b] = Integer.parseInt(reader.readLine());
+                if (numbers[b] > maximum)
+                {
+                    maximum = numbers[b];
+                }
+            }
+        }
         System.out.println(maximum);
     }
 }
