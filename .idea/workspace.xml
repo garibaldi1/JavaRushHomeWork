@@ -859,7 +859,11 @@
       <created>1404392476296</created>
       <updated>1404392476296</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Решена задача Level06. Lesson11.home7&#10;Решена задача Level07.Lesson09.task02&#10;Решена задача Level07.Lesson12.bonus03&#10;Решена задача Level07.Lesson12.home01&#10;Решена задача Level07.Lesson12.home6&#10;&#10;">
+      <created>1407764266859</created>
+      <updated>1407764266859</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -913,7 +917,8 @@
     <MESSAGE value="Решена задача Level07. Lesson06.task04&#10;Решена задача Level07.Lesson06.task05&#10;" />
     <MESSAGE value="Решена задача Level07. Lesson06.task04&#10;Решена задача Level07.Lesson06.task05&#10;Решена задача Level04.Lesson03.task03" />
     <MESSAGE value="Решена задача Level07. Lesson06.task04&#10;Решена задача Level07.Lesson06.task05&#10;Решена задача Level04.Lesson03.task03&#10;Решена задача Level05.Lesson12.bonus03&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена задача Level07. Lesson06.task04&#10;Решена задача Level07.Lesson06.task05&#10;Решена задача Level04.Lesson03.task03&#10;Решена задача Level05.Lesson12.bonus03&#10;" />
+    <MESSAGE value="Решена задача Level06. Lesson11.home7&#10;Решена задача Level07.Lesson09.task02&#10;Решена задача Level07.Lesson12.bonus03&#10;Решена задача Level07.Lesson12.home01&#10;Решена задача Level07.Lesson12.home6&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решена задача Level06. Lesson11.home7&#10;Решена задача Level07.Lesson09.task02&#10;Решена задача Level07.Lesson12.bonus03&#10;Решена задача Level07.Lesson12.home01&#10;Решена задача Level07.Lesson12.home6&#10;&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
