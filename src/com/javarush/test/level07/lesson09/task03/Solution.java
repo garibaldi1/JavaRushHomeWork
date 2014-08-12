@@ -15,6 +15,23 @@ public class Solution
 {
     public static void main(String[] args) throws Exception
     {
+        ArrayList<String>list = new ArrayList<String>();
+        String a = "мама";
+        String b = "мыла";
+        String c = "раму";
+        String d = "именно";
+        list.add(a);
+        list.add(d);
+        list.add(b);
+        list.add(d);
+        list.add(c);
+        list.add(d);
+        for (int i = 0; i < list.size(); i ++)
+        {
+            System.out.println(list.get(i));
+
+        }
+
         //Напишите тут ваш код
 
     }
