@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level07/lesson12/home04/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -818,7 +817,11 @@
       <created>1409129239921</created>
       <updated>1409129239921</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Задача level07,lesson12,home04 - попытка решения&#10;">
+      <created>1413295512197</created>
+      <updated>1413295512197</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -887,7 +890,8 @@
     <MESSAGE value="Решена задача level08.lesson06.task01&#10;" />
     <MESSAGE value="Решена задача level08.lesson06.task02&#10;" />
     <MESSAGE value="Решена задача level08.lesson06.task03&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена задача level08.lesson06.task03&#10;" />
+    <MESSAGE value="Задача level07,lesson12,home04 - попытка решения&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача level07,lesson12,home04 - попытка решения&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
