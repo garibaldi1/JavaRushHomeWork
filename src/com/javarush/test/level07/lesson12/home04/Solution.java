@@ -19,13 +19,17 @@ public class Solution
     {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         ArrayList<String> list = new ArrayList<String>();
-        String name;
         while (true)
         {
-
-
+            String array = reader.readLine();
+            if (array.equals("end")) break;
+            list.add(array);
+        }
+        for (String tmp : list)
+        {
+            System.out.println(tmp);
         }
 
-        //Напишите тут ваш код
+      //Напишите тут ваш код
     }
 }
